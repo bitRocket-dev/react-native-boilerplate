@@ -1,6 +1,7 @@
 {
   "name": "react-native-boilerplate",
   "version": "0.0.3",
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/bitRocket-dev/react-native-boilerplate/issues"
   },
