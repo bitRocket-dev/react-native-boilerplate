@@ -1,5 +1,5 @@
 /** @format */
 
 module.exports = {
-  assets: ['./assets/fonts/Roboto'],
+  assets: ['./src/assets/fonts/Roboto'],
 };
