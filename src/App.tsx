@@ -10,10 +10,8 @@ import React from 'react';
 import { Main } from './components-shared/Main';
 import { ReduxProvider } from './redux/Provider';
 
-const App = () => (
+export const App = () => (
   <ReduxProvider>
     <Main />
   </ReduxProvider>
 );
-
-export default App;
